@@ -1,0 +1,9 @@
+com\example\studenttask\repository\TaskRepository.class
+com\example\studenttask\service\TaskService.class
+com\example\studenttask\controller\TaskController.class
+com\example\studenttask\entity\Student.class
+com\example\studenttask\controller\StudentController.class
+com\example\studenttask\StudenttaskApplication.class
+com\example\studenttask\entity\Task.class
+com\example\studenttask\service\StudentService.class
+com\example\studenttask\repository\StudentRepository.class
